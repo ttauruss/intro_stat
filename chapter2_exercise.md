@@ -1,3 +1,3 @@
-1. Flexible or inflexible
-  a. Flexible because we have a lot of data
-  a. Inflexible
+1. Flexible or inflexible  
+  1. Flexible because we have a lot of data
+  1. Inflexible
