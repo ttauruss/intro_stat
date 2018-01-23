@@ -18,6 +18,7 @@ If we are interested in inference then we would prefer a less flexible model.
 
 6. A parametric model learns a set of parameters e.g. linear regression learns a set of weights and bias.  
 A non-parametric model is not described in terms of parameters.  
+
 | Model | Advantages | Disadvantages |
 |------ | ---------- | ------------- |
 | parametric | sdf | sdf |
