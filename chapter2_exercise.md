@@ -21,5 +21,5 @@ A non-parametric model is not described in terms of parameters.
 
 | Model | Advantages | Disadvantages |
 |------ | ---------- | ------------- |
-| parametric | sdf | sdf |
-| non-parametric | sdf | sdf |
+| parametric | easier to estimate | biased |
+| non-parametric | not biased | large number of observations |
