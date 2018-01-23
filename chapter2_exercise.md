@@ -10,4 +10,7 @@
 
 4. 
 
-5. sdf
+5. More flexible approach can learn highly non-linear relations better. If the data  
+is highly non-linear then we would prefer more flexible model. On the other side if the data  
+is close to linear then we would prefer less flexible approach to avoid overfitting.  
+The amount of data is also important - for more flexible model we would like to have more data.
