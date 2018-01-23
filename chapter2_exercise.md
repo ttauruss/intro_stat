@@ -4,5 +4,4 @@
   c. Better - flexible models can represent better non-linear relations  
   d. Worse - flexible model would learn more noise in the data  
 
-3. Bias-Variance tradeoff.  
-![](img/bias_variance.png)
+3. Bias-Variance tradeoff - see img/bias_variance.png  
