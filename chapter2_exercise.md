@@ -23,3 +23,5 @@ A non-parametric model is not described in terms of parameters.
 |------ | ---------- | ------------- |
 | parametric | easier to estimate | biased |
 | non-parametric | not biased | large number of observations |
+
+7. d. We would prefer the K to be small because we want very flexible model in this case.
