@@ -14,3 +14,6 @@
 is highly non-linear then we would prefer more flexible model. On the other side if the data  
 is close to linear then we would prefer less flexible approach to avoid overfitting.  
 The amount of data is also important - for more flexible model we would like to have more data.
+If we are interested in inference then we would prefer a less flexible model.
+
+6. sdf
