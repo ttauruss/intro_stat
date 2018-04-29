@@ -1,4 +1,4 @@
-1. Flexible or inflexible  
+1. Will flexible be better?  
   a. Better - because we have a lot of data  
   b. Worse - because we don't have enough data and might overfit with flexible approach  
   c. Better - flexible models can represent better non-linear relations  
