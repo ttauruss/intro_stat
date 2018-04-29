@@ -11,7 +11,10 @@
 
 3. Bias-Variance tradeoff - see img/bias_variance.png  
 
-4. 
+4. Real-life applications  
+  a. Classification - approving credit in a bank, predicting whether cancer is benign or malignant, classifying images  
+  b. Regression - predicting the price of a house, predicting stock price, predicting salary  
+  c. Cluster analysis - clustering customers into groups by buying behavior, 
 
 5. More flexible approach can learn highly non-linear relations better. If the data  
 is highly non-linear then we would prefer more flexible model. On the other side if the data  
