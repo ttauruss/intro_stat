@@ -16,11 +16,7 @@
   b. Regression - predicting the price of a house, predicting stock price, predicting salary  
   c. Cluster analysis - clustering customers into groups by buying behavior, 
 
-5. More flexible approach can learn highly non-linear relations better. If the data  
-is highly non-linear then we would prefer more flexible model. On the other side if the data  
-is close to linear then we would prefer less flexible approach to avoid overfitting.  
-The amount of data is also important - for more flexible model we would like to have more data.
-If we are interested in inference then we would prefer a less flexible model.
+5. More flexible approach can learn highly non-linear relations better. If the data is highly non-linear then we would prefer more flexible model. On the other side if the data is close to linear then we would prefer less flexible approach to avoid overfitting. The amount of data is also important - for more flexible model we would like to have more data. If we are interested in inference then we would prefer a less flexible model.
 
 6. A parametric model learns a set of parameters e.g. linear regression learns a set of weights and bias.  
 A non-parametric model is not described in terms of parameters.  
