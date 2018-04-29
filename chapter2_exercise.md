@@ -4,7 +4,7 @@
   c. Better - flexible models can represent better non-linear relations  
   d. Worse - flexible model would learn more noise in the data  
 
-2. 
+2. Characterize scenarios  
   a. Regression, inference, n = 500, p = 3  
   b. Classification, prediction, n = 20, p = 13  
   c. Regression, prediction, n = 52, p = 3  
